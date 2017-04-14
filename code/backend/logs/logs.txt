@@ -1,0 +1,8 @@
+/* ******************************
+ * [logs.txt]
+ * Server logs are found in this folder
+ *
+ * Notes:
+ * See ./node for node related logs
+ * See ./game for game related logs
+ ******************************/

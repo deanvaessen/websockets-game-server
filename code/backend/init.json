@@ -1,0 +1,9 @@
+{
+"apps" : [{
+	"name"        : "websocket-game-server",
+	"script"      : "backend/init.js",
+	"watch"       : "backend/",
+	"ignore_watch" : ["backend/logs"],
+	"log_date_format"  : "YYYY-MM-DD HH:mm Z",
+	}]
+}

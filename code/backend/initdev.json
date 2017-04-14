@@ -1,0 +1,12 @@
+{
+"apps" : [{
+	"name"        : "websocket-game-server",
+	"script"      : "backend/init.js",
+	"watch"       : "backend/",
+	"min_uptime": 5000,
+	"max_restarts": 2,
+	"restart_delay" : 1500,
+	"ignore_watch" : ["backend/logs"],
+	"log_date_format"  : "YYYY-MM-DD HH:mm Z",
+	}]
+}

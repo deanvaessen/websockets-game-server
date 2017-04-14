@@ -1,0 +1,16 @@
+#{20/03/2017 - 16:32:40} [#{info}] #{appConfiguration of this session: {"gameplay":{"gameDuration":5000}}}
+#{20/03/2017 - 16:33:00} [#{info}] #{User l7CSOz95a32QrRHFAAAA connected!}
+#{20/03/2017 - 16:33:09} [#{info}] #{User oeuNUMAT3LuuUcxOAAAB connected!}
+#{20/03/2017 - 16:33:14} [#{info}] #{Game init start requested by l7CSOz95a32QrRHFAAAA! Active player is l7CSOz95a32QrRHFAAAA}
+#{20/03/2017 - 16:33:19} [#{info}] #{Game over!}
+#{20/03/2017 - 16:33:19} [#{info}] #{Queue position updated for user oeuNUMAT3LuuUcxOAAAB}
+#{20/03/2017 - 16:33:19} [#{info}] #{Queue position updated for user l7CSOz95a32QrRHFAAAA}
+#{20/03/2017 - 16:33:19} [#{info}] #{Queues updated}
+#{20/03/2017 - 16:33:24} [#{info}] #{Game init start requested by oeuNUMAT3LuuUcxOAAAB! Active player is oeuNUMAT3LuuUcxOAAAB}
+#{20/03/2017 - 16:33:29} [#{info}] #{Game over!}
+#{20/03/2017 - 16:33:29} [#{info}] #{Queue position updated for user l7CSOz95a32QrRHFAAAA}
+#{20/03/2017 - 16:33:29} [#{info}] #{Queues updated}
+#{20/03/2017 - 16:33:29} [#{info}] #{Queue position updated for user oeuNUMAT3LuuUcxOAAAB}
+#{20/03/2017 - 16:33:35} [#{info}] #{User l7CSOz95a32QrRHFAAAA disconnected!}
+#{20/03/2017 - 16:33:35} [#{info}] #{Queue position updated for user oeuNUMAT3LuuUcxOAAAB}
+#{20/03/2017 - 16:34:41} [#{info}] #{User oeuNUMAT3LuuUcxOAAAB disconnected!}

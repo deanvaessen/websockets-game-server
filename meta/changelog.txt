@@ -1,0 +1,8 @@
+15/03/2017 : 0.1.0 - Project base OK. Webpack+Socket.IO connection up and running.
+17/03/2017 : 0.2.0 - Connected front-end and backend further with updates based on player queue position after disconnects and initial connection. Brought in React to reflect updates on the screen. 
+17/03/2017 : 0.3.0 - Added disconnection functionality, start button functionality (gameplay simulation). Organised frontend a little.
+18/03/2017 : 0.4.0 - Optimised webpack configuration and build process, added postbuildglue file to copy over built files to public dir, configured back-end server to serve index.html and be stand-alone, added logging, reorganised directories.
+18/03/2017 : 0.5.0 - Moved completely to websockets connections, got rid of REST for game requests (start/disconnect). Built in seperate configuration per NODE_ENV. Seperated out the websocket requests and triggers into new files to make things easier to comprehend.
+19/03/2017 : 0.6.0 - Moved from nodemon to pm2 for better development stability and to keep server alive after crashes, added bluebird promise to fix queue update action - logging timing issue, added documentation, improved npm scriptsm, added better error handling and further logging of actions and crashes/errors.
+19/03/2017 : 1.0.0 - Improved documentation, added screenshot. Cleaned up code. Fixed bug with gameplay duration timeout. Added some styling.
+19/03/2017 : 1.0.1 - Fixed issue with crash on startup because of missing logs folder. Clarified documentation.
