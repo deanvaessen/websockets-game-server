@@ -44,8 +44,7 @@ module.exports = {
 			{
 				test: /\.jsx?$/,
 				include: [
-						path.resolve(__dirname, '../src'),
-						path.resolve(__dirname, "node_modules/@ckeditor")
+						path.resolve(__dirname, '../src')
 				],
 				use: [{
 						loader: 'babel-loader',
