@@ -80,3 +80,4 @@ A websocket connected game server with Express using React to display updates on
 ## Extra notes
 ------
 * Front-end is but a simplified supporting feature. The React component for example is just a simple component that is not further split into sub components. Same with the SCSS files.
+* If you launch socket events from the frontend (like kicking someone) while you are in 'dev mode' through webpack, it will duplicate that request through all open tabs that you may have open (and are connected to the server). This leads to strange bugs. Use a production start instead ('npm run')
